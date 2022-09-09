@@ -3,9 +3,9 @@ heyyyy
 im sleepy so i dont know about reedme but in general
 
 you need to inter in your account first
-then you have defferent menu as admin or user
+then you have different menu as admin or user
 
-in some plans you have more choices to do deffrent things
+in some plans you have more choices to do different things
 like:
 sell assist: it shows you how many products users buoght and how many products have been sold.
 delete: as admin you can delete products or users with their id in database.
