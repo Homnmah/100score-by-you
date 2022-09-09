@@ -1,6 +1,6 @@
 # 100score-by-you
 heyyyy
-im sleepy so i dont know about reedme but in general
+im sleepy so i dont know about readme but in general
 
 you need to inter in your account first
 then you have different menu as admin or user
