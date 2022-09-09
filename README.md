@@ -1,6 +1,6 @@
 # 100score-by-you
 heyyyy
-im sleepy so i dont know about redme but in general
+im sleepy so i dont know about reedme but in general
 
 you need to inter in your account first
 then you have defferent menu as admin or user
